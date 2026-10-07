@@ -46,7 +46,7 @@ This project transforms raw transactional sales data into an interactive visual 
 ## 📁 Repository Structure
 
 ```text
-├── excel project 1.xlsx   # Main Excel Workbook containing Raw Data, Data Cleaning, Pivot Tables & Dashboard
+├── Sales Dashboard.xlsx   # Main Excel Workbook containing Raw Data, Data Cleaning, Pivot Tables & Dashboard
 └── README.md              # Project Documentation
 ```
 
