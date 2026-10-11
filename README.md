@@ -73,6 +73,6 @@ This project transforms raw transactional sales data into an interactive visual 
 
 ---
 
-## 📬 Contact & Support
-
-For any questions, improvements, or feedback regarding this dashboard, feel free to open an issue or reach out directly!
+## 👤 Author
+* Name: Subhankar Panda
+* GitHub Profile: https://github.com/Ersubhankar
